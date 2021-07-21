@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.text-center {
+  text-align: center;
+}
+.display-flex {
+  display: flex;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.align-center {
+  align-items: center;
+}
+.border-none {
+  border: none;
+}
+h2,
+h3 {
+  font-size: 36px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+p {
+  font-size: 14px;
+  font-weight: 300;
+}
